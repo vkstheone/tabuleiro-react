@@ -15,6 +15,8 @@ export default function Home() {
       <Linha preta />
       <Linha />
       <Linha preta />
+
+      <h3 className="h3">Desenvolvido Por vinicius souza</h3>
     </main>
   );
 }
